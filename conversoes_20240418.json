@@ -1,0 +1,12 @@
+[
+  {
+    "base_code": "USD",
+    "target_code": "BRL",
+    "conversion_result": 52.407
+  },
+  {
+    "base_code": "BRL",
+    "target_code": "USD",
+    "conversion_result": 9.9216
+  }
+]
